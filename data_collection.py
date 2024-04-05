@@ -22,6 +22,7 @@ with open("titles_1918.txt","w") as file:
 # this code is getting the information from the url and then placing it into a text file
 
 
+#hello tony 
 
 
 
