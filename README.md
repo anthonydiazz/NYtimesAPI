@@ -9,8 +9,6 @@ This project involves scraping article headlines from the New York Times for spe
 3. [Data Collection](#data-collection)
 4. [Data Analysis](#data-analysis)
 5. [Results](#results)
-6. [Future Work](#future-work)
-7. [License](#license)
 
 ## Project Overview
 
